@@ -1,3 +1,1 @@
-echo "* text=auto" > .gitattributes
-git add .gitattributes
-git commit -m "Normalizar saltos de linea"
+* text=auto
